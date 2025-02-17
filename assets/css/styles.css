@@ -4,3 +4,33 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header {
+  padding: 10px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.nav {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-list li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.nav-list a {
+  text-decoration: none;
+}
+
+.main {
+  padding: 10px;
+}
